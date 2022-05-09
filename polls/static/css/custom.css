@@ -1,0 +1,22 @@
+body{
+  background: #f1f1f1 !important;
+}
+
+.bg-green {
+  background: #064c37 !important;
+}
+
+.makale-btn{
+  margin-top:10px;
+  background: rgb(6 76 55 / 66%) !important;
+  position:absolute;
+  bottom: 1.25rem !important;
+  left:1.25rem !important;
+  border: #064c37 !important;
+  color: #f1f1f1 !important;
+  width: 89%;
+}
+
+.makale-btn:hover{
+    background: #064c37 !important;
+}
